@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on **CampusLands & Oracle Next Education projects**
 
-- 🌱 I’m currently learning **node js, express js and react**
+- 🌱 I’m currently learning **Node js, Express js and React**
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/cristian212010?tab=repositories](https://github.com/cristian212010?tab=repositories)
 
-- 💬 Ask me about **javascript,php,java,SQL and programming logic**
+- 💬 Ask me about **Javascript,Php,Java,SQL and programming logic**
 
 - 📫 How to reach me **cristiancamilo212010@gmail.com**
 
