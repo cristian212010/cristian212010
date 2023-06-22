@@ -5,7 +5,7 @@
 <h3 align="center">A passionate web fullstack developer from Colombia, currently I am a junior web developer with soft
     skills in teamwork, problem solving, creative etc.</h3>
 
-- 🔭 I’m currently working on **Campus & Oracle Next Education projects**
+- 🔭 I’m currently working on **CampusLands & Oracle Next Education projects**
 
 - 🌱 I’m currently learning **node js, express js and react**
 
