@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="200">
+    <img src="[https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)" width="200">
 </div>
 <h1 align="center">Hi 👋, I'm Cristian Luna</h1>
 <h3 align="center">A passionate web fullstack developer from Colombia, currently I am a junior web developer with soft
