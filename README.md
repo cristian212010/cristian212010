@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at
 [https://github.com/cristian212010?tab=repositories](https://github.com/cristian212010?tab=repositories)
 
-- 💬 Ask me about **Javascript,Php,Java,SQL and programming logic**
+- 💬 Ask me about **Javascript,Php,Java,SQL,MongoDB and programming logic**
 
 - 📫 How to reach me **cristiancamilo212010@gmail.com**
 
