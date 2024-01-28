@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a                     href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+    <img src="https://media.giphy.com/media/1Aj491qX7K45qZs6EP/giphy.gif" width="200">
 </div>
 <h1 align="center">Hi 👋, I'm Cristian Luna</h1>
 <h3 align="center">A passionate web fullstack developer from Colombia, currently I am a junior web developer with soft
